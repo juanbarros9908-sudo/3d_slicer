@@ -1,0 +1,63 @@
+[
+  {
+    "slice_id": 0,
+    "point_id": 0,
+    "x": 0.0991,
+    "y": 0.0561,
+    "z": -0.997,
+    "radius": 0.0046,
+    "angle_deg": 0,
+    "density": 0.4905
+  },
+  {
+    "slice_id": 0,
+    "point_id": 1,
+    "x": -0.085,
+    "y": -0.0999,
+    "z": -1.0036,
+    "radius": -0.0047,
+    "angle_deg": 23,
+    "density": 0.5023
+  },
+  {
+    "slice_id": 0,
+    "point_id": 2,
+    "x": -0.0229,
+    "y": 0.0501,
+    "z": -1.0087,
+    "radius": 0.0031,
+    "angle_deg": 45,
+    "density": 0.5045
+  },
+  {
+    "slice_id": 0,
+    "point_id": 3,
+    "x": -0.0249,
+    "y": -0.0205,
+    "z": -0.9983,
+    "radius": 0.0017,
+    "angle_deg": 68,
+    "density": 0.5002
+  },
+  {
+    "slice_id": 0,
+    "point_id": 4,
+    "x": -0.0434,
+    "y": -0.0305,
+    "z": -1.0094,
+    "radius": 0.0032,
+    "angle_deg": 90,
+    "density": 0.4908
+  },
+  {
+    "slice_id": 0,
+    "point_id": 5,
+    "x": -0.0973,
+    "y": -0.0002,
+    "z": -1.0083,
+    "radius": 0.0013,
+    "angle_deg": 113,
+    "density": 0.4914
+  }
+]
+... (192 total records)
